@@ -30,6 +30,7 @@ body {
     gap: 30px;
     flex-direction: column;
     align-items: center;
+    height: 100%;
     width: 100%;   
     color: var(--cor-terciaria);
     background: linear-gradient(var(--cor-primaria), var(--cor-secundaria)), url(midias/background.jpg);
@@ -105,5 +106,6 @@ footer {
     padding: 10px;
     align-items: flex-end;
     display: flex;
+    text-align: center;
     flex-grow: 1;
 }

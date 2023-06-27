@@ -81,6 +81,7 @@ main {
 main > a {
     color: var(--cor-terciaria);
     width: 90%;
+    max-width: 1000px;
     text-align: center;
 }
 

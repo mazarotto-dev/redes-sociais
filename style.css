@@ -33,7 +33,7 @@ body {
     height: 100%;
     width: 100%;   
     color: var(--cor-terciaria);
-    background: linear-gradient(var(--cor-primaria), var(--cor-secundaria)), url(midias/background.jpg);
+    background: linear-gradient(var(--cor-primaria), var(--cor-secundaria)), url(midias/background.webp);
     background-size: cover;
     background-position: center left;
 }

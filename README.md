@@ -12,7 +12,7 @@
 ⚙️ Manipulação de props
 🚀 Começando:
 
-1️⃣ Certifique-se de ter o Node.js instalado em sua máquina.
+1️⃣ Certifique-se de ter o Node.js instalado em sua máquina. <br/>
 2️⃣ Clone este repositório em sua área de trabalho.
 3️⃣ Execute o comando "npm install" para instalar as dependências.
 4️⃣ Utilize o comando "npm start" para iniciar o servidor local.

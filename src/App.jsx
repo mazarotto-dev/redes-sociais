@@ -23,7 +23,7 @@ function App() {
       <Button link="https://twitter.com/guaranamz" texto="Twitter"/>
       <Button link="https://linkedin.com/in/mazarottoo" texto="Linkedln"/>
       <Button link="https://www.threads.net/@mazarottoo_" texto="Threads"/>
-      <Button link="mailto:mazarottoop@gmail.com" texto="GitHub"/>
+      <Button link="mailto:mazarottoop@gmail.com" texto="Contato"/>
     </main>
     <Footer></Footer>
     </>

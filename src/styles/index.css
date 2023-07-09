@@ -26,9 +26,7 @@ body::-webkit-scrollbar-thumb {
   border-radius: 20px;
 }
 
-
-
-html, body {
+body {
     width: 100%;
     height: 100%;
     color: #fff;
@@ -77,6 +75,7 @@ header #skill {
 main {
     display: flex;
     flex-direction: column;
+    gap: 5px;
     justify-content: center;
     align-items: center;
     padding: 15px;

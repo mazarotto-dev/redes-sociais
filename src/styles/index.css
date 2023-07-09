@@ -75,7 +75,6 @@ header #skill {
 main {
     display: flex;
     flex-direction: column;
-    gap: 5px;
     justify-content: center;
     align-items: center;
     padding: 15px;

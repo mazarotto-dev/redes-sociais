@@ -15,7 +15,8 @@
 1️⃣ Certifique-se de ter o Node.js instalado em sua máquina. <br/>
 2️⃣ Clone este repositório em sua área de trabalho. <br/>
 3️⃣ Execute o comando "npm install" para instalar as dependências. <br/>
-4️⃣ Utilize o comando "npm start" para iniciar o servidor local. <br/>
+4️⃣ Utilize o comando "npm run dev" para iniciar o servidor local. <br/>
+
 
 🤝 Contribuição:
 Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request. Será um prazer revisar suas contribuições!

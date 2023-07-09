@@ -1,4 +1,4 @@
-import image from './img/foto.jpeg'
+import image from './img/foto.png'
 import Header from './components/header'
 import Button from './components/button'
 import Footer from './components/footer'

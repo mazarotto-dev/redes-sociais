@@ -6,11 +6,11 @@
 
 ✨ Recursos do Projeto:
 
-🚀 Utilização avançada de React
-🎨 Estilo inspirado no Linktree
-📦 Componentes reutilizáveis
-⚙️ Manipulação de props
-🚀 Começando:
+🚀 Utilização avançada de React <br/>
+🎨 Estilo inspirado no Linktree <br/>
+📦 Componentes reutilizáveis <br/>
+⚙️ Manipulação de props <br/>
+🚀 Começando: <br/>
 
 1️⃣ Certifique-se de ter o Node.js instalado em sua máquina. <br/>
 2️⃣ Clone este repositório em sua área de trabalho. <br/>

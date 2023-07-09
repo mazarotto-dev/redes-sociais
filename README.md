@@ -13,10 +13,9 @@
 🚀 Começando:
 
 1️⃣ Certifique-se de ter o Node.js instalado em sua máquina. <br/>
-2️⃣ Clone este repositório em sua área de trabalho.
-3️⃣ Execute o comando "npm install" para instalar as dependências.
-4️⃣ Utilize o comando "npm start" para iniciar o servidor local.
-5️⃣ Acesse o site em seu navegador usando o endereço "localhost:3000".
+2️⃣ Clone este repositório em sua área de trabalho. <br/>
+3️⃣ Execute o comando "npm install" para instalar as dependências. <br/>
+4️⃣ Utilize o comando "npm start" para iniciar o servidor local. <br/>
 
 🤝 Contribuição:
 Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request. Será um prazer revisar suas contribuições!

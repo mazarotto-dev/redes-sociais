@@ -1,6 +1,5 @@
 {
-  "homepage": "mazarottoo.github.io/redes-sociais",
-  "name": "mz-links",
+  "name": "ex03",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
+    "preview": "vite preview"
   },
   "dependencies": {
     "gh-pages": "^5.0.0",

@@ -1,27 +1,8 @@
-# 👋 Bem-vindo(a) ao meu repositório no GitHub!
+# React + Vite
 
-🌐 Neste projeto, desenvolvi um site em React inspirado no Linktree para aprimorar meus conhecimentos, especialmente em manipulação de props.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-📁 Aqui você encontrará o código-fonte do site, juntamente com todos os arquivos necessários para executá-lo.
+Currently, two official plugins are available:
 
-✨ Recursos do Projeto:
-
-🚀 Utilização avançada de React <br/>
-🎨 Estilo inspirado no Linktree <br/>
-📦 Componentes reutilizáveis <br/>
-⚙️ Manipulação de props <br/>
-🚀 Começando: <br/>
-
-1️⃣ Certifique-se de ter o Node.js instalado em sua máquina. <br/>
-2️⃣ Clone este repositório em sua área de trabalho. <br/>
-3️⃣ Execute o comando "npm install" para instalar as dependências. <br/>
-4️⃣ Utilize o comando "npm run dev" para iniciar o servidor local. <br/>
-
-
-🤝 Contribuição:
-Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request. Será um prazer revisar suas contribuições!
-
-📝 Licença:
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para obter mais informações.
-
-Agradeço por visitar meu repositório! Divirta-se explorando o código! 💻🎉
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

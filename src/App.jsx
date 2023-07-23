@@ -1,31 +1,33 @@
-import image from './img/foto.png'
-import Header from './components/header'
-import Button from './components/button'
-import Footer from './components/footer'
-import './styles/index.css'
-
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import './App.css'
 
 function App() {
-  const skills = 'HTML | CSS | JavaScript React.JS'
+  const [count, setCount] = useState(0)
 
   return (
-    
     <>
-    <Header
-     nome="Julio Cesar"
-     image={image}
-     dev="Desenvolvedor Front-End"
-     skills={skills}
-    />
-    <main>
-      <Button link="https://github.com/mazarottoo" texto="GitHub"/>
-      <Button link="https://instagram.com/mazarottoo_" texto="Instagram"/>
-      <Button link="https://twitter.com/guaranamz" texto="Twitter"/>
-      <Button link="https://linkedin.com/in/mazarottoo" texto="Linkedln"/>
-      <Button link="https://www.threads.net/@mazarottoo_" texto="Threads"/>
-      <Button link="mailto:mazarottoop@gmail.com" texto="Contato"/>
-    </main>
-    <Footer></Footer>
+      <div>
+        <a href="https://vitejs.dev" target="_blank">
+          <img src={viteLogo} className="logo" alt="Vite logo" />
+        </a>
+        <a href="https://react.dev" target="_blank">
+          <img src={reactLogo} className="logo react" alt="React logo" />
+        </a>
+      </div>
+      <h1>Vite + React</h1>
+      <div className="card">
+        <button onClick={() => setCount((count) => count + 1)}>
+          count is {count}
+        </button>
+        <p>
+          Edit <code>src/App.jsx</code> and save to test HMR
+        </p>
+      </div>
+      <p className="read-the-docs">
+        Click on the Vite and React logos to learn more
+      </p>
     </>
   )
 }

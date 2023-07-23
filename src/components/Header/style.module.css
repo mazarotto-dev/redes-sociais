@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    gap: 8px;
+    flex-basis: 100%;
+    margin-bottom: 50px;
+}
+
+
+.photo {
+    width: 150px;
+    clip-path: circle();
+}
+
+.dev {
+    color: var(--primary);
+    font-weight: 500;
+}

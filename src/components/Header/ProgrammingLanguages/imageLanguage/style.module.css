@@ -1,0 +1,15 @@
+.image {
+    width: 40px;
+    position: relative;
+    bottom: .0rem;
+    transition: .3s ease;
+}
+
+
+@media screen and (min-width: 768px) {
+    
+    .image:hover {
+        bottom: .25rem;
+        filter: drop-shadow(0 0 1rem #023d8a91);
+    }
+}

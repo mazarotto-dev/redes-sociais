@@ -1,0 +1,9 @@
+.mainLinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    gap: 15px;
+    margin-bottom: 50px;
+}

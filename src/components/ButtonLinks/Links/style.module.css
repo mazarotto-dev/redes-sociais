@@ -1,0 +1,14 @@
+.button {
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    width: 80%;
+    max-width: 800px;
+    border: 3px solid var(--secondary);
+    border-radius: 20px;
+    transition: .3s ease;
+}
+.button:hover {
+    opacity: .5;
+    box-shadow: 0 0 .5rem #19718c;
+}
